@@ -40,7 +40,7 @@ function createListElement() {
     input.value = "";
     createDiv.classList.add("div");
     var createDeleteButton = document.createElement("i");
-    createDeleteButton.classList.add("fa", "fa-minus-circle");
+    createDeleteButton.classList.add("fa", "fa-minus-circle" );
     createDiv.appendChild(createDeleteButton);
     deleteParentNodeOnClick();q
 }

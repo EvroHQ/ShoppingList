@@ -93,6 +93,7 @@ li {
 	color: rgb(0, 238, 255);
 	display: flex;
 	padding-right: 10px;
+	cursor: pointer;
 }
 
 .li-wrapper {
